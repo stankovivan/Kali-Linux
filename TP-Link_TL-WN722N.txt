@@ -31,6 +31,6 @@ Open folder
 cd rtl18188eus
 sudo make install
 
-Restart is needed.
+Restart is needed!
 
 sudo shutdown -r now
